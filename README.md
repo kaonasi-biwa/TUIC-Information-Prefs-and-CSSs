@@ -22,3 +22,20 @@ Twitter UI Customizerのリンクはこちら
     <td> 注意事項 </td> <td>ライト・ダーク共に、フォロー解除ボタンの背景色は一度変更したらインポート以外でもとに戻すことが出来ません</td>
   </tr>
 </table>
+
+# CSS
+リンク先のCSSをコピーしてカスタムCSSに追記してください
+- [BiggerMark!!](./CSSs/BiggerMark.md)
+<table>
+  <thead>
+    <tr>
+      <th>項目</th> <th>説明</th>
+    </tr>
+  </thead>
+  <tr>
+    <td>概要</td> <td>Twitterのサイドバー・起動時のアイコンをでっかくします</td>
+  </tr>
+  <tr>
+    <td>備考</td> <td>カスタムアイコン推奨です！(あのムカつく犬の顔とか白い鳥とかわざわざでっかくしたい人なんてあんまりいないでしょうし)</td>
+  </tr>
+</table>
